@@ -3,8 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int mai() {
-    long long n;
+int main() {
+    long long n; // Long long is used to show huge integers 
     cin >> n;
 
     while (true) {
